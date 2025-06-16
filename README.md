@@ -26,12 +26,12 @@ dotnet run
 
 | Key     | Action                         |
 |---------|--------------------------------|
-| `W`     | Move light up                  |
-| `S`     | Move light down                |
-| `A`     | Move light left                |
-| `D`     | Move light right               |
-| `Q`     | Move light closer to sphere    |
-| `E`     | Move light farther from sphere |
+| `W`     | Move light down                |
+| `S`     | Move light up                  |
+| `A`     | Move light right               |
+| `D`     | Move light left                |
+| `Q`     | Move light farther from sphere |
+| `E`     | Move light closer to sphere    |
 
 Use the radio buttons to change the material applied to the sphere.
 
