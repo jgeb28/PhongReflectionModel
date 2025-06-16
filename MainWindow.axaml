@@ -1,0 +1,18 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="PhongModel.MainWindow"
+        Width="800" Height="450"
+        Title="Phong Sphere">
+  <DockPanel>
+    
+    <StackPanel Orientation="Horizontal" DockPanel.Dock="Top" Margin="10" HorizontalAlignment="Center" >
+      <RadioButton x:Name="MatteRadio" Content="Matte" IsChecked="True"/>
+      <RadioButton x:Name="WoodRadio" Content="Wood" Margin="20,0,0,0" />
+      <RadioButton x:Name="PlasticRadio" Content="Plastic" Margin="20,0,0,0" />
+      <RadioButton x:Name="MetallicRadio" Content="Metallic" Margin="20,0,0,0" />
+    </StackPanel>
+
+    <Image x:Name="OutputImage" Stretch="Uniform" />
+    
+  </DockPanel>
+</Window>
