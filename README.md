@@ -4,7 +4,7 @@ This project is a basic implementation of the **Phong Reflection Model** using *
 
 ## ✨ Features
 
-- Real-time rendering of a 3D sphere with **Phong shading**.
+- Real-time rendering of a 3D sphere with **Phong reflection**.
 - **Interactive lighting control**:
   - Move light using `W`, `A`, `S`, `D`.
   - Adjust light distance with `Q` and `E`.
